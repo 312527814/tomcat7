@@ -1,5 +1,4 @@
-VM的设置如下所示
-
+VM的设置如下所示：
 -Dcatalina.home=F:\java-demo\apache-tomcat-7.0.77-src
 -Dcatalina.base=F:\java-demo\apache-tomcat-7.0.77-src
 -Djava.endorsed.dirs=F:\java-demo\apache-tomcat-7.0.77-src\endorsed 
